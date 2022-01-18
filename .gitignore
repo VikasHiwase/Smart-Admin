@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+/src/components
+/src/pages
+DummyData.js
+
 # testing
 /coverage
 
