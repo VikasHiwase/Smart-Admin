@@ -24,7 +24,7 @@ function Topbar() {
           </div>
 
           <img
-            src="https://scontent-bom1-2.xx.fbcdn.net/v/t39.30808-6/269996213_4584052241701545_5206914616071488246_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=vgYxMxoj50AAX-jkbU4&_nc_ht=scontent-bom1-2.xx&oh=00_AT-f5m28bEg8fdRtj3Xr5M6rGT3_Sgdj-Ym0pGeoikbiVA&oe=61E0453C"
+            src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
             alt="avatar"
             className="topAvatar"
           />
