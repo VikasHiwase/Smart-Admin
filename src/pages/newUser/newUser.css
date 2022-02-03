@@ -8,7 +8,7 @@
 }
 
 .newUserItem {
-  width: 400px;
+  width: 500px;
   display: flex;
   flex-direction: column;
   margin-top: 10px;
@@ -42,4 +42,16 @@
 .newUserSelect {
   height: 40px;
   border-radius: 5px;
+}
+
+.newUserButton {
+  width: 200px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 7px 10px;
+  background-color: darkblue;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
 }
